@@ -1,0 +1,6 @@
+@DoublerApi_HostAddress = http://localhost:5225
+
+GET {{DoublerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
